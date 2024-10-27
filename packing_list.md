@@ -4,3 +4,6 @@
 - [ ] hiking boots
 - [ ] water bottle
 - [ ] sleeping pad
+- [ ] Booze
+- [ ] Boombox
+- [ ] 80's romantic mixtape

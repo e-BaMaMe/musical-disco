@@ -4,3 +4,5 @@
 - [ ] hiking boots
 - [ ] water bottle
 - [ ] sleeping pad
+- [ ] earplugs
+- [ ] whistle for when Carol snores too loudly

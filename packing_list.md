@@ -5,4 +5,8 @@
 - [ ] water bottle
 - [ ] sleeping pad
 - [ ] earplugs
-- [ ] whistle for when Carol snores too loudly
+- [ ] whistle for when Carol snores like truck
+- [ ] Booze
+- [ ] Boombox
+- [ ] 80's romantic mixtape
+
